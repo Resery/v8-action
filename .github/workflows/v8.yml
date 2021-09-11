@@ -14,7 +14,7 @@ on:
 
 env:
   PATCH_FLAG: false
-  COMMIT: aaaaaaaaaaa
+  COMMIT: aklsdasljdklasjdlkjasdl
   DEPOT_UPLOAD: false
   SRC_UPLOAD: true
   BINARY_UPLOAD: false
